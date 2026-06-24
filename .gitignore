@@ -1,4 +1,7 @@
 
+# macOS Finder metadata.
+.DS_Store
+
 # Clion cmake build directory.
 cmake-build-*
 
